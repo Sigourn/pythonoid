@@ -15,10 +15,8 @@ Only one level, however.
 
 Download the files and run **arkanoid.py**.
 
-**Left arrow** key moves the craft left.
-
-**Right arrow** key moves the craft right.
-
-**Space** key fires the ball.
+- **Left arrow** key moves the craft left.
+- **Right arrow** key moves the craft right.
+- **Space** key fires the ball.
 
 It's that simple! It does require the **playsound** module though.
