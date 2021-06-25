@@ -13,4 +13,10 @@ Only one level, however.
 
 ## How to play
 
-Download the files and run **arkanoid.py**. It's that simple! It does require the **playsound** module though.
+Download the files and run **arkanoid.py**.
+
+**Left arrow** key moves the craft left.
+**Right arrow** key moves the craft right.
+**Space** key fires the ball.
+
+It's that simple! It does require the **playsound** module though.
