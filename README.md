@@ -10,6 +10,7 @@ Only one level, however.
 - Ball changing direction depending on where it impacts your craft.
 - Game over screen.
 - Sounds, lifted straight off the NES original.
+- Just one level. :(
 
 ## How to play
 
