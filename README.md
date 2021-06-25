@@ -11,6 +11,7 @@ Only one level, however.
 - Game over screen.
 - Sounds, lifted straight off the NES original.
 - Just one level. :(
+- And no power ups. Or score.
 
 ## How to play
 
