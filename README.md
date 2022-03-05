@@ -4,6 +4,10 @@ My Arkanoid in Python project. Based off Arkanoid from the NES, a favorite of mi
 
 Only one level, however.
 
+## Requirements
+
+- **playsound** module.
+
 ## Features
 
 - Silver bricks! They take an extra hit to destroy.
@@ -21,4 +25,4 @@ Download the files and run **arkanoid.py**.
 - **Right arrow** key moves the craft right.
 - **Space** key fires the ball.
 
-It's that simple! It does require the **playsound** module though.
+It's that simple!
